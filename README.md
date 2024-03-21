@@ -6,3 +6,8 @@ print(result)
 
 출력값 
 [26, 48]
+
+square = lambda x, y ; x**y
+print (square(10,2))
+
+출력값 ; 100
